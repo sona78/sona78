@@ -1,5 +1,7 @@
 ### Hello World! 💡
+My name is Kaustubh Sonawane, and I am a current senior at Plano West Senior High School. I've been coding for about 6 years across Java, Python, React, and others. Nice to meet you all and welcome to my GitHub!
 
+![](https://komarev.com/ghpvc/?username=sona78)
 <!--
 **sona78/sona78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
