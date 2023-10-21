@@ -1,5 +1,5 @@
 ### Hello World! 💡
-My name is Kaustubh Sonawane, and I am a current freshman at UT Austin in the Computer Science and Business dual degree program. I've been coding for about 6 years across Java, Python, React, and others. Nice to meet you all and welcome to my GitHub!
+My name is Kaustubh Sonawane, and I am a student at UT Austin in the Computer Science and Business dual degree program. I've been coding for about 6 years across Java, Python, React, and others. Nice to meet you all and welcome to my GitHub!
 
 ![](https://komarev.com/ghpvc/?username=sona78)
 <!--
